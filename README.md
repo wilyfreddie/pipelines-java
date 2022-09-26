@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/garanivanfrederic/test/_apis/build/status/wilyfreddie.pipelines-java?branchName=main)](https://dev.azure.com/garanivanfrederic/test/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
